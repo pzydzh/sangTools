@@ -9,7 +9,7 @@ setup(
     name="sangTools",
     version="0.0.0",
     description=("sangtools"),
-    author="sangjiajun",
+    author="sangplus",
     packages=find_packages(),
     url='https://github.com/pzydzh/sangTools',
     license="MIT",
