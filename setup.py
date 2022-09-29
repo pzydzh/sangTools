@@ -10,6 +10,7 @@ setup(
     version="0.0.0",
     description=("sangtools"),
     author="sangplus",
+    author_email="jiajun_sang@outlook.com",
     packages=find_packages(),
     url='https://github.com/pzydzh/sangTools',
     license="MIT",
