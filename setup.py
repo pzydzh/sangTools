@@ -7,7 +7,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="sangTools",
-    version="0.0.0",
+    version="0.0.1",
     description=("sangtools"),
     author="sangplus",
     author_email="jiajun_sang@outlook.com",
